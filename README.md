@@ -20,4 +20,4 @@ To get the Points Counter running on your local machine, follow these simple ste
 
 1. Clone this repository to your local machine using the command:
    ```sh
-   git clone https://github.com/yourusername/points-counter.git
+   git clone https://github.com/Sagarsah3413/points-counter.git
